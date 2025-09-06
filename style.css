@@ -47,13 +47,13 @@ footer {
   main {
     margin: 1rem;
     padding: 1rem;
-
-
+  }
+}
 
 .header-image {
   width: 100%;
   height: auto;
-  max-height: 400px;
+  max-height: 40vh;
   object-fit: cover;
   border-radius: 8px;
   margin-top: 1rem;
@@ -66,4 +66,5 @@ footer {
     max-height: 250px;
   }
 }
+
 
